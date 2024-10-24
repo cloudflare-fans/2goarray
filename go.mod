@@ -1,4 +1,4 @@
-module github.com/cratonica/2goarray
+module github.com/cloudflare-fans/2goarray
 
 go 1.19.0
 
